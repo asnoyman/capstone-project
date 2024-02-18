@@ -1,0 +1,22 @@
+[
+    ["🚘", "Create a listing"], 
+    ["🎞", "Add a youtube thumbnail"], 
+    ["🖼️", "Add extra photos to a listing"], 
+    ["📅", "Add availabilities to a listing"], 
+    ["📚", "Book a listing"],
+    ["⏳", "Book a listing at least one week in advance"], 
+    ["📝", "Leave a review"], 
+    ["✍️", "Leave a review with a comment"], 
+    ["🕵️", "Leave a review that is not anonymous"], 
+    ["💯", "Leave a 5 star review"],
+    ["🧩", "Solve a puzzle"], 
+    ["🔥", "Book a listing with a puzzle streak of 7+ (no surcharge)"], 
+    ["✏️", "Edit your first name"], 
+    ["🎭", "Set your profile picture"], 
+    ["💵", "Set your bank details"],
+    ["👬", "View a different user's profile"], 
+    ["💪", "The Man, The Myth, The Legend"], 
+    ["👩‍💻", "A secret /badge"],
+    ["🌠", "Review a listing at a lucky time"], 
+    ["🎉", "Book a listing on the most special day of the year for parking spaces"]
+]
